@@ -9,7 +9,7 @@ I will build the project by using:
 - VS Code
 
 ## Message topics
-The output of my messages will be **Ancient Shamanic Wisdoms&**
+The output of my messages will be **Ancient Shamanic Wisdoms**
 
 
 
